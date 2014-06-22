@@ -24,3 +24,10 @@ share some md info such as websites
 ```shell
 <example@example.com>
 ```
+
+
+#### 如何设置图片
+
+```shell
+![Alt text](/path/*.jpg "optional title")
+```
